@@ -1,0 +1,7 @@
+framework module SCWaveformView {
+    umbrella ".."
+//  umbrella header "SCWaveformView.h"
+  export *
+
+//  module * { export * }
+}
