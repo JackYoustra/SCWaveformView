@@ -16,8 +16,7 @@ let package = Package(
     targets: [
         .target(
             name: "SCWaveformView",
-            path: "spm_sources",
-            publicHeadersPath: "include"
+            path: "spm_sources"
         )
     ]
 )
